@@ -1,1 +1,1 @@
-git config --global credential.helper "cache --timeout=2"
+git config --global credential.helper "cache --timeout=3600"
